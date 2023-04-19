@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lote
+comment1.params=numeroDeLote\ descripcion
+comment1.target=Lote(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNumeroDeLote()
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment4.params=
+comment4.target=Oferta\ getOfertaMaxima()
+comment5.params=ofertaMaxima
+comment5.target=void\ setOfertaMaxima(Oferta)
+numComments=6

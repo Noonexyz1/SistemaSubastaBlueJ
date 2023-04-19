@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Subasta
+comment1.params=
+comment1.target=Subasta()
+comment2.params=lote
+comment2.target=void\ ingresarLote(Lote)
+comment3.params=numeroLote\ ofertante
+comment3.target=void\ ofertarPara(int,\ Oferta)
+comment4.params=numeroLote
+comment4.target=void\ mostrarLote(int)
+comment5.params=
+comment5.target=java.util.ArrayList\ getLotes()
+numComments=6
